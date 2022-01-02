@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GIFfany_Radio.png"><SubTexture name="GIFfany_Radio idle0000" x="0" y="0" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+<SubTexture name="GIFfany_Radio idle0001" x="106" y="0" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+<SubTexture name="GIFfany_Radio idle0002" x="212" y="0" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+<SubTexture name="GIFfany_Radio idle0003" x="318" y="0" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+<SubTexture name="GIFfany_Radio idle0004" x="0" y="46" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+<SubTexture name="GIFfany_Radio idle0005" x="106" y="46" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+<SubTexture name="GIFfany_Radio idle0006" x="212" y="46" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+<SubTexture name="GIFfany_Radio idle0007" x="318" y="46" width="106" height="46" frameX="0" frameY="0" frameWidth="106" frameHeight="46" />
+</TextureAtlas>
