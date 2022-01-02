@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"School Romance",
+			"gif-pixel",
+			[
+				244,
+				63,
+				134
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "gif",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Romance Academy 7",
+	"weekName": "GIF Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
