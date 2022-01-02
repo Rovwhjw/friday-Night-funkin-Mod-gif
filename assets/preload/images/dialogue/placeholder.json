@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		-140
+	],
+	"dialogue_pos": "left",
+	"scale": 10,
+	"image": "Psy_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-8
+			],
+			"loop_offsets": [
+				0,
+				-8
+			],
+			"anim": "talk",
+			"idle_name": "PSYtalk",
+			"loop_name": "PSY loop"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_name": "PSY angry",
+			"loop_name": "PSY ANGRY loop"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "unamused",
+			"idle_name": "PSY unamused",
+			"loop_name": "PSY UNAMUSED loop"
+		}
+	]
+}

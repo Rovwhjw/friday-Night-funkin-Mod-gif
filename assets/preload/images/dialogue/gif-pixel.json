@@ -1,0 +1,50 @@
+{
+	"position": [
+		-160,
+		-150
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "gifPortraits",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "gif loop",
+			"loop_name": "gif loop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gif happy",
+			"idle_name": "gif happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "flush",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gif flush",
+			"idle_name": "gif flush"
+		}
+	]
+}
